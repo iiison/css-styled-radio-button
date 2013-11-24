@@ -1,3 +1,4 @@
+body{padding-left:10px;}
 form{float:left;width:94%;margin-left:20px;}
 input[type="radio"]{display:none;}
 input[type="radio"]:checked + .male,.inp:hover .male{background-position:2px -22px;background-color:#cdcdcd;}
